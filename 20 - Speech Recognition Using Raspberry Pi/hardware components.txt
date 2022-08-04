@@ -1,0 +1,12 @@
+Raspberry Pi 3 Model B+
+Charger with output 5.1V and 3A 
+HDMI Cable
+SD Card 32 GB
+Mouse 
+Keyboard
+USB Sound Card
+Microphone
+Bread Board
+Resistor with 150 Ohm 
+Red Led 
+Female-Male Wire

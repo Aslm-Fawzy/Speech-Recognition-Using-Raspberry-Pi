@@ -1,0 +1,15 @@
+pyauido
+
+speech_recognition
+
+datetime
+
+gpiozero
+
+time
+
+gtts
+
+pygame
+
+flac
