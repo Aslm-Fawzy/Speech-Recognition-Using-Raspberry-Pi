@@ -14,3 +14,7 @@
            exit from all the program and exit audio will be played   
 
 All code steps founded in Code folder , audios that used in code founded in Records folder and also used software and hardware components in Hardware Components.txt and Software and Framework.txt 
+<img 
+     <a href = "file:///E:/Aslm/My%20Projects/20%20-%20Speech%20Recognition%20Using%20Raspberry%20Pi/Schema.webp"
+        \a>
+           >
