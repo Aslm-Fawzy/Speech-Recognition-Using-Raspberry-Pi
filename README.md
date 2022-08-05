@@ -13,6 +13,6 @@
 6.      >> if user say exit :
            exit from all the program and exit audio will be played   
 
-All code steps founded in Code folder , audios that used in code founded in Records folder and also used software and hardware components in Hardware Components.txt and Software and Framework.txt 
+### All code steps founded in Code folder , audios that used in code founded in Records folder and also used software and hardware components in Hardware Components.txt and Software and Framework.txt 
 
 <img src = "https://raw.githubusercontent.com/Aslm-Fawzy/Speech-Recognition-Using-Raspberry-Pi/main/Schema.webp">
