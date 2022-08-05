@@ -1,6 +1,6 @@
 # **Speech Recognition Using Raspberry Pi**
 
-#### Simple Speech Recognition that run on Raspberry PI in following steps :
+### Simple Speech Recognition that run on Raspberry PI in following steps :
 
 1.      >> Playing Welcome Audio
 2.      >> Ask User to say on mic one of following (today - open - close - exit)
